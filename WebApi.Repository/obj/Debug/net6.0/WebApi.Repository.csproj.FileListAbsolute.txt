@@ -1,0 +1,34 @@
+F:\C# uygulama\Local Repo\WebApi\WebApi.Repository\bin\Debug\net6.0\WebApi.Repository.deps.json
+F:\C# uygulama\Local Repo\WebApi\WebApi.Repository\bin\Debug\net6.0\WebApi.Repository.runtimeconfig.json
+F:\C# uygulama\Local Repo\WebApi\WebApi.Repository\bin\Debug\net6.0\WebApi.Repository.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Repository\bin\Debug\net6.0\WebApi.Repository.pdb
+F:\C# uygulama\Local Repo\WebApi\WebApi.Repository\bin\Debug\net6.0\WebApi.Core.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Repository\bin\Debug\net6.0\WebApi.Core.pdb
+F:\C# uygulama\Local Repo\WebApi\WebApi.Repository\obj\Debug\net6.0\WebApi.Repository.csproj.AssemblyReference.cache
+F:\C# uygulama\Local Repo\WebApi\WebApi.Repository\obj\Debug\net6.0\WebApi.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# uygulama\Local Repo\WebApi\WebApi.Repository\obj\Debug\net6.0\WebApi.Repository.AssemblyInfoInputs.cache
+F:\C# uygulama\Local Repo\WebApi\WebApi.Repository\obj\Debug\net6.0\WebApi.Repository.AssemblyInfo.cs
+F:\C# uygulama\Local Repo\WebApi\WebApi.Repository\obj\Debug\net6.0\WebApi.Repository.csproj.CoreCompileInputs.cache
+F:\C# uygulama\Local Repo\WebApi\WebApi.Repository\obj\Debug\net6.0\WebApi.Repository.csproj.CopyComplete
+F:\C# uygulama\Local Repo\WebApi\WebApi.Repository\obj\Debug\net6.0\WebApi.Repository.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Repository\obj\Debug\net6.0\refint\WebApi.Repository.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Repository\obj\Debug\net6.0\WebApi.Repository.pdb
+F:\C# uygulama\Local Repo\WebApi\WebApi.Repository\obj\Debug\net6.0\WebApi.Repository.genruntimeconfig.cache
+F:\C# uygulama\Local Repo\WebApi\WebApi.Repository\obj\Debug\net6.0\ref\WebApi.Repository.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Repository\bin\Debug\net6.0\WebApi.Repository.deps.json
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Repository\bin\Debug\net6.0\WebApi.Repository.runtimeconfig.json
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Repository\bin\Debug\net6.0\WebApi.Repository.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Repository\bin\Debug\net6.0\WebApi.Repository.pdb
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Repository\bin\Debug\net6.0\WebApi.Core.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Repository\bin\Debug\net6.0\WebApi.Core.pdb
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Repository\obj\Debug\net6.0\WebApi.Repository.csproj.AssemblyReference.cache
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Repository\obj\Debug\net6.0\WebApi.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Repository\obj\Debug\net6.0\WebApi.Repository.AssemblyInfoInputs.cache
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Repository\obj\Debug\net6.0\WebApi.Repository.AssemblyInfo.cs
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Repository\obj\Debug\net6.0\WebApi.Repository.csproj.CoreCompileInputs.cache
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Repository\obj\Debug\net6.0\WebApi.Repository.csproj.CopyComplete
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Repository\obj\Debug\net6.0\WebApi.Repository.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Repository\obj\Debug\net6.0\refint\WebApi.Repository.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Repository\obj\Debug\net6.0\WebApi.Repository.pdb
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Repository\obj\Debug\net6.0\WebApi.Repository.genruntimeconfig.cache
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Repository\obj\Debug\net6.0\ref\WebApi.Repository.dll

@@ -1,0 +1,15 @@
+F:\C# uygulama\Local Repo\WebApi\Service\bin\Debug\netcoreapp3.1\WebApi.Service.deps.json
+F:\C# uygulama\Local Repo\WebApi\Service\bin\Debug\netcoreapp3.1\WebApi.Service.dll
+F:\C# uygulama\Local Repo\WebApi\Service\bin\Debug\netcoreapp3.1\WebApi.Service.pdb
+F:\C# uygulama\Local Repo\WebApi\Service\bin\Debug\netcoreapp3.1\WebApi.Core.dll
+F:\C# uygulama\Local Repo\WebApi\Service\bin\Debug\netcoreapp3.1\WebApi.Repository.dll
+F:\C# uygulama\Local Repo\WebApi\Service\bin\Debug\netcoreapp3.1\WebApi.Repository.pdb
+F:\C# uygulama\Local Repo\WebApi\Service\bin\Debug\netcoreapp3.1\WebApi.Core.pdb
+F:\C# uygulama\Local Repo\WebApi\Service\obj\Debug\netcoreapp3.1\WebApi.Service.csproj.AssemblyReference.cache
+F:\C# uygulama\Local Repo\WebApi\Service\obj\Debug\netcoreapp3.1\WebApi.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# uygulama\Local Repo\WebApi\Service\obj\Debug\netcoreapp3.1\WebApi.Service.AssemblyInfoInputs.cache
+F:\C# uygulama\Local Repo\WebApi\Service\obj\Debug\netcoreapp3.1\WebApi.Service.AssemblyInfo.cs
+F:\C# uygulama\Local Repo\WebApi\Service\obj\Debug\netcoreapp3.1\WebApi.Service.csproj.CoreCompileInputs.cache
+F:\C# uygulama\Local Repo\WebApi\Service\obj\Debug\netcoreapp3.1\WebApi.Service.csproj.CopyComplete
+F:\C# uygulama\Local Repo\WebApi\Service\obj\Debug\netcoreapp3.1\WebApi.Service.dll
+F:\C# uygulama\Local Repo\WebApi\Service\obj\Debug\netcoreapp3.1\WebApi.Service.pdb

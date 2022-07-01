@@ -1,0 +1,17 @@
+F:\C# uygulama\Local Repo\WebApi\WebApi.Validator\obj\Debug\net6.0\WebApi.Validator.csproj.AssemblyReference.cache
+F:\C# uygulama\Local Repo\WebApi\WebApi.Validator\obj\Debug\net6.0\WebApi.Validator.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# uygulama\Local Repo\WebApi\WebApi.Validator\obj\Debug\net6.0\WebApi.Validator.AssemblyInfoInputs.cache
+F:\C# uygulama\Local Repo\WebApi\WebApi.Validator\obj\Debug\net6.0\WebApi.Validator.AssemblyInfo.cs
+F:\C# uygulama\Local Repo\WebApi\WebApi.Validator\obj\Debug\net6.0\WebApi.Validator.csproj.CoreCompileInputs.cache
+F:\C# uygulama\Local Repo\WebApi\WebApi.Validator\bin\Debug\net6.0\WebApi.Validator.deps.json
+F:\C# uygulama\Local Repo\WebApi\WebApi.Validator\bin\Debug\net6.0\WebApi.Validator.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Validator\bin\Debug\net6.0\WebApi.Validator.pdb
+F:\C# uygulama\Local Repo\WebApi\WebApi.Validator\bin\Debug\net6.0\WebApi.Core.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Validator\bin\Debug\net6.0\WebApi.Repository.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Validator\bin\Debug\net6.0\WebApi.Repository.pdb
+F:\C# uygulama\Local Repo\WebApi\WebApi.Validator\bin\Debug\net6.0\WebApi.Core.pdb
+F:\C# uygulama\Local Repo\WebApi\WebApi.Validator\obj\Debug\net6.0\WebApi.Validator.csproj.CopyComplete
+F:\C# uygulama\Local Repo\WebApi\WebApi.Validator\obj\Debug\net6.0\WebApi.Validator.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Validator\obj\Debug\net6.0\refint\WebApi.Validator.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Validator\obj\Debug\net6.0\WebApi.Validator.pdb
+F:\C# uygulama\Local Repo\WebApi\WebApi.Validator\obj\Debug\net6.0\ref\WebApi.Validator.dll

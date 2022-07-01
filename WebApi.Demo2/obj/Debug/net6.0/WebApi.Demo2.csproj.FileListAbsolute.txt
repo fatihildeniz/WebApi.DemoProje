@@ -1,0 +1,110 @@
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\appsettings.Development.json
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\appsettings.json
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\WebApi.Demo2.exe
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\WebApi.Demo2.deps.json
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\WebApi.Demo2.runtimeconfig.json
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\WebApi.Demo2.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\WebApi.Demo2.pdb
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\AutoMapper.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\Npgsql.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\WebApi.Core.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\WebApi.Repository.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\WebApi.Service.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\WebApi.Service.pdb
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\WebApi.Core.pdb
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\WebApi.Repository.pdb
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\obj\Debug\net6.0\WebApi.Demo2.csproj.AssemblyReference.cache
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\obj\Debug\net6.0\WebApi.Demo2.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\obj\Debug\net6.0\WebApi.Demo2.AssemblyInfoInputs.cache
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\obj\Debug\net6.0\WebApi.Demo2.AssemblyInfo.cs
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\obj\Debug\net6.0\WebApi.Demo2.csproj.CoreCompileInputs.cache
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\obj\Debug\net6.0\WebApi.Demo2.MvcApplicationPartsAssemblyInfo.cs
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\obj\Debug\net6.0\WebApi.Demo2.MvcApplicationPartsAssemblyInfo.cache
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\obj\Debug\net6.0\staticwebassets.build.json
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\obj\Debug\net6.0\staticwebassets.development.json
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\obj\Debug\net6.0\scopedcss\bundle\WebApi.Demo2.styles.css
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\obj\Debug\net6.0\WebApi.Demo2.csproj.CopyComplete
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\obj\Debug\net6.0\WebApi.Demo2.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\obj\Debug\net6.0\refint\WebApi.Demo2.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\obj\Debug\net6.0\WebApi.Demo2.pdb
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\obj\Debug\net6.0\WebApi.Demo2.genruntimeconfig.cache
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\obj\Debug\net6.0\ref\WebApi.Demo2.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\Humanizer.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\System.Web.Mvc.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\System.Web.Razor.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\System.Web.Helpers.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\System.Web.WebPages.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\WebApi.Validation.dll
+F:\C# uygulama\Local Repo\WebApi\WebApi.Demo2\bin\Debug\net6.0\WebApi.Validation.pdb
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\obj\Debug\net6.0\WebApi.Demo2.csproj.AssemblyReference.cache
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\obj\Debug\net6.0\WebApi.Demo2.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\obj\Debug\net6.0\WebApi.Demo2.AssemblyInfoInputs.cache
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\obj\Debug\net6.0\WebApi.Demo2.AssemblyInfo.cs
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\obj\Debug\net6.0\WebApi.Demo2.csproj.CoreCompileInputs.cache
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\obj\Debug\net6.0\WebApi.Demo2.MvcApplicationPartsAssemblyInfo.cs
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\obj\Debug\net6.0\WebApi.Demo2.MvcApplicationPartsAssemblyInfo.cache
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\obj\Debug\net6.0\WebApi.Demo2.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\obj\Debug\net6.0\refint\WebApi.Demo2.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\obj\Debug\net6.0\WebApi.Demo2.pdb
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\appsettings.Development.json
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\appsettings.json
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\WebApi.Demo2.exe
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\WebApi.Demo2.deps.json
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\WebApi.Demo2.runtimeconfig.json
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\WebApi.Demo2.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\WebApi.Demo2.pdb
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\AutoMapper.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\Humanizer.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\System.Web.Mvc.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\System.Web.Razor.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\System.Web.Helpers.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\System.Web.WebPages.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\Npgsql.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\WebApi.Core.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\WebApi.Repository.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\WebApi.Service.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\WebApi.Validation.dll
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\WebApi.Service.pdb
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\WebApi.Core.pdb
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\WebApi.Repository.pdb
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\bin\Debug\net6.0\WebApi.Validation.pdb
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\obj\Debug\net6.0\staticwebassets.build.json
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\obj\Debug\net6.0\staticwebassets.development.json
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\obj\Debug\net6.0\scopedcss\bundle\WebApi.Demo2.styles.css
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\obj\Debug\net6.0\WebApi.Demo2.csproj.CopyComplete
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\obj\Debug\net6.0\WebApi.Demo2.genruntimeconfig.cache
+F:\GitHub\ourProject\WebApi.DemoProje\WebApi.Demo2\obj\Debug\net6.0\ref\WebApi.Demo2.dll

@@ -1,0 +1,38 @@
+F:\C# uygulama\Local Repo\WebApi\Service\bin\Debug\net6.0\WebApi.Service.deps.json
+F:\C# uygulama\Local Repo\WebApi\Service\bin\Debug\net6.0\WebApi.Service.dll
+F:\C# uygulama\Local Repo\WebApi\Service\bin\Debug\net6.0\WebApi.Service.pdb
+F:\C# uygulama\Local Repo\WebApi\Service\bin\Debug\net6.0\WebApi.Core.dll
+F:\C# uygulama\Local Repo\WebApi\Service\bin\Debug\net6.0\WebApi.Repository.dll
+F:\C# uygulama\Local Repo\WebApi\Service\bin\Debug\net6.0\WebApi.Repository.pdb
+F:\C# uygulama\Local Repo\WebApi\Service\bin\Debug\net6.0\WebApi.Core.pdb
+F:\C# uygulama\Local Repo\WebApi\Service\obj\Debug\net6.0\WebApi.Service.csproj.AssemblyReference.cache
+F:\C# uygulama\Local Repo\WebApi\Service\obj\Debug\net6.0\WebApi.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# uygulama\Local Repo\WebApi\Service\obj\Debug\net6.0\WebApi.Service.AssemblyInfoInputs.cache
+F:\C# uygulama\Local Repo\WebApi\Service\obj\Debug\net6.0\WebApi.Service.AssemblyInfo.cs
+F:\C# uygulama\Local Repo\WebApi\Service\obj\Debug\net6.0\WebApi.Service.csproj.CoreCompileInputs.cache
+F:\C# uygulama\Local Repo\WebApi\Service\obj\Debug\net6.0\WebApi.Service.csproj.CopyComplete
+F:\C# uygulama\Local Repo\WebApi\Service\obj\Debug\net6.0\WebApi.Service.dll
+F:\C# uygulama\Local Repo\WebApi\Service\obj\Debug\net6.0\refint\WebApi.Service.dll
+F:\C# uygulama\Local Repo\WebApi\Service\obj\Debug\net6.0\WebApi.Service.pdb
+F:\C# uygulama\Local Repo\WebApi\Service\obj\Debug\net6.0\ref\WebApi.Service.dll
+F:\C# uygulama\Local Repo\WebApi\Service\bin\Debug\net6.0\WebApi.Validation.dll
+F:\C# uygulama\Local Repo\WebApi\Service\bin\Debug\net6.0\WebApi.Validation.pdb
+F:\GitHub\ourProject\WebApi.DemoProje\Service\bin\Debug\net6.0\WebApi.Service.deps.json
+F:\GitHub\ourProject\WebApi.DemoProje\Service\bin\Debug\net6.0\WebApi.Service.dll
+F:\GitHub\ourProject\WebApi.DemoProje\Service\bin\Debug\net6.0\WebApi.Service.pdb
+F:\GitHub\ourProject\WebApi.DemoProje\Service\bin\Debug\net6.0\WebApi.Core.dll
+F:\GitHub\ourProject\WebApi.DemoProje\Service\bin\Debug\net6.0\WebApi.Repository.dll
+F:\GitHub\ourProject\WebApi.DemoProje\Service\bin\Debug\net6.0\WebApi.Validation.dll
+F:\GitHub\ourProject\WebApi.DemoProje\Service\bin\Debug\net6.0\WebApi.Repository.pdb
+F:\GitHub\ourProject\WebApi.DemoProje\Service\bin\Debug\net6.0\WebApi.Validation.pdb
+F:\GitHub\ourProject\WebApi.DemoProje\Service\bin\Debug\net6.0\WebApi.Core.pdb
+F:\GitHub\ourProject\WebApi.DemoProje\Service\obj\Debug\net6.0\WebApi.Service.csproj.AssemblyReference.cache
+F:\GitHub\ourProject\WebApi.DemoProje\Service\obj\Debug\net6.0\WebApi.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\ourProject\WebApi.DemoProje\Service\obj\Debug\net6.0\WebApi.Service.AssemblyInfoInputs.cache
+F:\GitHub\ourProject\WebApi.DemoProje\Service\obj\Debug\net6.0\WebApi.Service.AssemblyInfo.cs
+F:\GitHub\ourProject\WebApi.DemoProje\Service\obj\Debug\net6.0\WebApi.Service.csproj.CoreCompileInputs.cache
+F:\GitHub\ourProject\WebApi.DemoProje\Service\obj\Debug\net6.0\WebApi.Service.csproj.CopyComplete
+F:\GitHub\ourProject\WebApi.DemoProje\Service\obj\Debug\net6.0\WebApi.Service.dll
+F:\GitHub\ourProject\WebApi.DemoProje\Service\obj\Debug\net6.0\refint\WebApi.Service.dll
+F:\GitHub\ourProject\WebApi.DemoProje\Service\obj\Debug\net6.0\WebApi.Service.pdb
+F:\GitHub\ourProject\WebApi.DemoProje\Service\obj\Debug\net6.0\ref\WebApi.Service.dll
